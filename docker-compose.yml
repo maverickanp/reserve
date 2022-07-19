@@ -1,0 +1,10 @@
+# version: "1.0"
+# services:
+#   web:
+#     build: ./...
+#     ports:
+#       - "7780:7780"
+#   api:
+#     build: ./....
+#     ports:
+#       - "7781:7781"

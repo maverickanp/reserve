@@ -1,0 +1,1 @@
+export { CovidEntity } from './covidEntity';
